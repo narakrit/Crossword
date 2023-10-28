@@ -33,3 +33,5 @@ function hand(word) {
 
 let hands = prompt()
 console.log(hand(hands))
+
+console
