@@ -26,16 +26,6 @@ function hand(word) {
   return letterCount;
 }
 
-// let hands = [
-//   { alphabet: "a", count: 1 },
-//   { alphabet: "b", count: 1 },
-//   { alphabet: "c", count: 1 },
-//   { alphabet: "d", count: 1 },
-//   { alphabet: "e", count: 1 },
-//   { alphabet: "f", count: 1 },
-//   { alphabet: "g", count: 1 },
-//   { alphabet: "h", count: 1 }
-// ];
 let input = prompt()
 const hands = hand(input)
 
